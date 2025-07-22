@@ -4,3 +4,5 @@ author : Subhajit Giri
 Hello to Github World
 <br>
 Im just starting with Github
+<br>
+This is a demo of Amazon first page with only html and css
